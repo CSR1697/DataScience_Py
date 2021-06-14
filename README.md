@@ -1,3 +1,4 @@
+cd 
 	👋 Hi, I’m @Chandru01061997 
 	👀 I’m interested in Data Science and Artificial Intelligence 
 	🌱 I’m currently learning Data science and AI
